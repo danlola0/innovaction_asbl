@@ -349,4 +349,3 @@ to {
         animation: fadeUp 0.8s ease-out forwards;
       }
     `,document.head.appendChild(l);const o=()=>{r(window.location.pathname)};return window.addEventListener("popstate",o),()=>{document.head.removeChild(l),window.removeEventListener("popstate",o)}},[]),n==="/admin"?s.jsxs(s.Fragment,{children:[s.jsx(da,{}),s.jsx(a0,{language:e}),s.jsx(pa,{language:e}),s.jsx(va,{phoneNumber:"243999462485",language:e})]}):s.jsxs("div",{className:"min-h-screen",children:[s.jsx(da,{}),s.jsx(wp,{language:e}),s.jsx(kp,{language:e}),s.jsx(Np,{language:e}),s.jsx(jp,{language:e}),s.jsx(Sp,{language:e}),s.jsx(Cp,{language:e}),s.jsx(Ep,{language:e}),s.jsx(_p,{language:e}),s.jsx(pa,{language:e}),s.jsx(va,{phoneNumber:"243999462485",language:e})]})};Pc(document.getElementById("root")).render(s.jsx(M.StrictMode,{children:s.jsx(u0,{})}));
-//# sourceMappingURL=index-DKPsHAZ0.js.map
